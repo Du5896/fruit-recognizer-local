@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+.venv/
+venv/
+*.onnx
+*.pth.bak
+data/
+*.txt.bak
